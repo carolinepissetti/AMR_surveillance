@@ -3,14 +3,15 @@
 
 # Description: 
 
-This time series study on the halo diameter and MIC of susceptible *Salmonella* spp. (Typhimurium and Derby) isolates obtained during 16 year (different master and doctorate projects) from pig chain production in BR. Samples are from carcasses and food. 
+This time series study on the halo diameter and MIC of susceptible *Salmonella* spp. (Typhimurium and Derby) isolates obtained during 16 years (different master and doctorate projects) from pig chain production in BR. Samples are from carcasses and food. 
 
 :chart: :microbe: :pill: :pig:
-The results are published in a peer-reviewed paper in *xx* journal.
+The results are published in a peer-reviewed paper in *Pathogens* journal.
 
+Pissetti C, Costa EF, Zenato KS, de Itapema Cardoso MR. Critically Important Antimicrobial Resistance Trends in *Salmonella* Derby and *Salmonella* Typhimurium Isolated from the Pork Production Chain in Brazil: A 16-Year Period. Pathogens. 2022 Aug 11;11(8):905. doi: 10.3390/pathogens11080905. 
 
 # Authors: 
-Caroline Pissetti; Eduardo de Freitas Costa; and Marisa Cardoso.
+Caroline Pissetti, Eduardo de Freitas Costa, Karoline Silva Zenato, and Marisa Cardoso.
 
 
 ## To run the analysis: 
